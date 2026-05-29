@@ -6,8 +6,10 @@ A Java-based inventory and stock management system designed to manage products, 
 
 * Product Management
 * Inventory Monitoring
-* Sales Transactions
+* Sales Transactions Processing
 * Supplier Management
+* Receipt Generation
+* Stock Level Updates
 * CRUD Operations
 
 ## UML Use Case Diagram
