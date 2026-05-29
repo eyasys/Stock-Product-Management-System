@@ -12,7 +12,7 @@ A Java-based inventory and stock management system designed to manage products, 
 
 ## UML Use Case Diagram
 
-![Use Case Diagram](docs/uml/use-case-diagram.JFIF)
+![Use Case Diagram](docs/uml/use-case-diagram.jfif)
 
 ## Technologies
 
